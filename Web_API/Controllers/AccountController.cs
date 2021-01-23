@@ -93,7 +93,7 @@ namespace Web_API.Controllers
             await HttpContext.SignOutAsync(IdentityConstants.ExternalScheme);
 
             ViewData["ReturnUrl"] = returnUrl;
-            return View();
+                     return View();
         }
 
         [HttpPost]
