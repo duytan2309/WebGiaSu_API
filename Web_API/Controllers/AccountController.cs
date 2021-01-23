@@ -62,7 +62,7 @@ namespace Web_API.Controllers
             catch (Exception ex)
             {
 
-                throw;
+                     throw;//comments
             }
 
 
