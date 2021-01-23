@@ -1,0 +1,16 @@
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\bin\Debug\netcoreapp2.1\Data.dll
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\bin\Debug\netcoreapp2.1\Data.pdb
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\obj\Debug\netcoreapp2.1\Data.dll
+D:\Project GiaSu\WebGiaSu_API\WebGiaSu_API\Data\obj\Debug\netcoreapp2.1\Data.pdb
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\bin\Debug\netcoreapp2.1\Data.dll
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\bin\Debug\netcoreapp2.1\Data.pdb
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\obj\Debug\netcoreapp2.1\Data.dll
+D:\Project GiaSu\WebGiaSu_API-main\WebGiaSu_API-main\Data\obj\Debug\netcoreapp2.1\Data.pdb
